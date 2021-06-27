@@ -89,7 +89,3 @@ in the chosen view and model.
 ####SwingController
 The SwingController class is used when certain events are triggered in the view. Once they
 are triggered, the controller has to update the model to reflect the change and update the view.
-
-
-Forest: https://www.publicdomainpictures.net/en/view-image.php?image=60426&picture=in-the-forest
-Cheetah: https://www.publicdomainpictures.net/en/view-image.php?image=272960&picture=cheetah
